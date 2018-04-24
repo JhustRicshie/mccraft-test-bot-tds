@@ -1,0 +1,18 @@
+{
+  "name": "mccraftbot",
+  "version": "1.0.0",
+  "description": "MC Craft Minecraft Server's bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "fs": "^0.0.1-security",
+    "mcserverstatus": "^2.1.5",
+    "mineping": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JhustRicshie",
+  "license": "ISC"
+}
